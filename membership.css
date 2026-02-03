@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'SF-Pro-Text';
-    src: url('SF-Pro-Text-Regular.otf');
+    font-family: 'Vercetti-Regular';
+    src: url('Vercetti-Regular.ttf');
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 .header button {
-    font-family: 'SF-Pro-Text';
+    font-family: 'Vercetti-Regular';
     font-size: 15px;
     background-color: #FFFCF2;
     border: none;
@@ -86,7 +86,7 @@ body {
 
 .mainbox {
     font-size: 20px;
-    font-family: 'SF-Pro-Text';
+    font-family: 'Vercetti-Regular';
     margin: 50px;
     
 
